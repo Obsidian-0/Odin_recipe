@@ -3,8 +3,11 @@
     font-size:larger;
     
 }
+body{
+    background-color: beige;
+}
 img{
-    width:600%;
+    width:60%;
     display:block;
     margin:0 auto;
 }
@@ -38,4 +41,10 @@ list-style: none;
 }
 .links:hover a{
     color:brown;
+}
+.ingredients{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    color:black;
+    list-style:circle;
 }
