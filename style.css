@@ -4,15 +4,16 @@
     
 }
 img{
-    width: 100%;
+    width:600%;
+    display:block;
+    margin:0 auto;
 }
 .title{
     /* text-align:center; */
     font-size:xx-large;
 }
 ul{
-    list-style-type:none;
-
+list-style: none;
 }
 .nav{
     text-align:center;
